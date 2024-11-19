@@ -1,6 +1,12 @@
 
 # Data Folders and files (not ignored as they are necessary for streamlit app)
 # data/
+mpg.csv
+
+# Misc Files
+backups.py
+streamlit_live_coding.py
+Plotly_Exercises_mini.ipynb
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,windows,linux,dotenv,pycharm,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,macos,windows,linux,dotenv,pycharm,visualstudiocode
